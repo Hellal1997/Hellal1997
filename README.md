@@ -3,5 +3,5 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Hellal1997) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinitshahdeo.visitor-badge)](https://github.com/Hellal1997) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Hellal1997)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://x.com/mohamed86692688)
+[![Twitter Follow](https://img.shields.io/twitter/follow)](https://x.com/mohamed86692688)
 
