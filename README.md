@@ -97,7 +97,7 @@ ________________________________________________________________________________
  
  [GitHub](https://github.com/Hellal1997), You can find me on [LinkedIn](https://www.linkedin.com/in/mohamed-hellal-1b1008204/)**. Currently I'm **looking for contributions** for following projects:
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Hellal1997) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinitshahdeo.visitor-badge)](https://github.com/Hellal1997) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Hellal1997)  <a href="https://www.instagram.com/eng_mohamedss/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Hellal1997)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Hellal1997)  <a href="https://www.instagram.com/eng_mohamedss/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
 
