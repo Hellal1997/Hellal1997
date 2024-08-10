@@ -1,10 +1,12 @@
 ### Hi there 👋 ,Mohamed hellal
 
 
-**Glad to see you here!** 
+**Glad to see you here!** :star_struck:
 
-:star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/Hellal1997) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/hellal88/) 
+ 
+ <br> The green dots on my [**GitHub** profile](https://github.com/Hellal1997) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/hellal88/) 
 
+ 
  work as junior Devops engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AZURE, AWS.
  _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
  
@@ -39,6 +41,8 @@ ________________________________________________________________________________
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedhellal\&show_icons=true\&theme=radical)
+
+ 
 
  
  Outside of [GitHub]
