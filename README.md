@@ -1,4 +1,16 @@
-### Hi there 👋 ,Mohamed hellal
+  _________________________________________
+        /     Hi there 👋 ,Mohamed hellal \
+              
+          -----------------------------------------
+            \
+             \
+                 .--.
+                |o_o |
+                |:_/ |
+               //   \ \
+              (|     | )
+             /'\_   _/`\
+             \___)=(___/
 
 
 **Glad to see you here!** :star_struck:
@@ -8,6 +20,21 @@
 
  
  work as junior Devops engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AZURE, AWS.
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+### Languages and Tools:  
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7VTM6KCrb40WiAyWV_Atusd028gjgcL2BA&s"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> 
+
+
+
  _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
  
  Skills and Experience
