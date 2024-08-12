@@ -5,7 +5,7 @@
 
 
 
-[![Cairo](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://playing-with-fastapi.vercel.app/weather/Cairo)
+(https://playing-with-fastapi.vercel.app/weather/Cairo)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
