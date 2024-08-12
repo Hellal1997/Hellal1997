@@ -3,6 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed hellal</h1>
 
+
+
+[![Egypt](https://raw.githubusercontent.com/hu8813/hu8813/main/weather_badge.svg)](https://playing-with-fastapi.vercel.app/weather/Egypt)
+
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
