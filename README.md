@@ -1,5 +1,5 @@
 [//]: #![masterhead](https://user-images.githubusercontent.com/125555445/221557144-9f128373-9958-4d78-8013-c67f7d94b03e.gif)
-![gif](https://gomycode.com/ng/wp-content/uploads/sites/29/2024/03/devops.gif)
+<h1 align="center">![gif](https://gomycode.com/ng/wp-content/uploads/sites/29/2024/03/devops.gif)</h1>
 
 <h1 align="center">Hi 👋, I'm Mohamed hellal</h1>
 
