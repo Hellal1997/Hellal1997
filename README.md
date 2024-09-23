@@ -16,13 +16,13 @@ ________________________________________________________________________________
 **Glad to see you here!** :star_struck:
 <br>
 <a href="https://www.linkedin.com/in/mohamed-helal-%F0%9F%87%B5%F0%9F%87%B8-1b1008204/">
-  <img align="left" alt="Tarek's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="hellal's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Hellal1997">
-  <img align="left" alt="Tarek's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="hellal's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/eng_mohamedss/">
-  <img align="left" alt="Tarek's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="hellals's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
  <br><br>
