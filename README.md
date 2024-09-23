@@ -13,14 +13,25 @@ ________________________________________________________________________________
 ### "أُحِبُّ الصالِحينَ وَلَستُ مِنهُم لَعَلّي أَن أَنالَ بِهِم شَفاعَه وَأَكرَهُ مَن تِجارَتُهُ المَعاصي وَلَو كُنّا سَواءً في البِضاعَه"
 
 
-
 **Glad to see you here!** :star_struck:
+<br>
+<a href="https://www.linkedin.com/in/mohamed-helal-%F0%9F%87%B5%F0%9F%87%B8-1b1008204/">
+  <img align="left" alt="Tarek's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Hellal1997">
+  <img align="left" alt="Tarek's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/eng_mohamedss/">
+  <img align="left" alt="Tarek's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
- 
- <br> The green dots on my [**GitHub** profile](https://github.com/Hellal1997) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/hellal88/) 
+ <br><br>
+![](https://github.com/Hellal1997/DevOps_Tools/blob/main/header_.png?raw=true)
 
- 
- work as junior Devops engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AZURE, AWS.
+## <p align="center"><h4 align="center"><samp> Devops engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AZURE, AWS. </samp></h4></p>
+<img align="right" src="https://github.com/Hellal1997/DevOps_Tools/blob/main/Devops-mario(1).gif?raw=true" width="40%"/>
+
+  
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h3 align="left">Languages and Tools:</h3>
