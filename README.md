@@ -31,6 +31,11 @@ ________________________________________________________________________________
 ## <p align="center"><h4 align="center"><samp> Devops engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AZURE, AWS. </samp></h4></p>
 <img align="right" src="https://github.com/Hellal1997/DevOps_Tools/blob/main/Devops-mario(1).gif?raw=true" width="40%"/>
 
+
+
+
+
+
   
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
