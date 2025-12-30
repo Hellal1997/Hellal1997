@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohamed hellal</h1>
+
+<h1 align="center"> Hi 👋, I'm Mohamed hellal</h1>
+
+
+-----
+
 
 
 [//]:                                       #![masterhead](https://user-images.githubusercontent.com/125555445/221557144-9f128373-9958-4d78-8013-c67f7d94b03e.gif)
@@ -390,11 +395,11 @@
  
 <a href="https://github.com/Hellal1997">
   <img align="left" alt="hellal's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>, You can find me on<a href="https://www.instagram.com/eng_mohamedss/">
+</a>, You can find me on <a href="https://www.instagram.com/eng_mohamedss/">
   <img align="left" alt="hellals's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>. Currently I'm **looking for contributions** for following projects:
+</a>.  Currently I'm **looking for contributions** for following projects:
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Hellal1997)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Hellal1997)  <a href="https://www.instagram.com/eng_mohamedss/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Hellal1997)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Hellal1997)  
 </p>
 
 
@@ -411,6 +416,11 @@
 </a>
 
 
+
+
+
+
+
 -----  
 
 
@@ -420,6 +430,4 @@
 
   
 -----
-
-
 
