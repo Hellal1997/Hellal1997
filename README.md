@@ -8,11 +8,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellal1997&label=Profile%20views&color=0e75b6&style=flat" alt="hellal1997" /> </p>
 
 
+-----
 
-
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### "أُحِبُّ الصالِحينَ وَلَستُ مِنهُم لَعَلّي أَن أَنالَ بِهِم شَفاعَه وَأَكرَهُ مَن تِجارَتُهُ المَعاصي وَلَو كُنّا سَواءً في البِضاعَه"
+
+-----
 
 
 **Glad to see you here!** :star_struck:
@@ -31,9 +32,8 @@ ________________________________________________________________________________
 <a href="https://wa.me/201063299388">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
 </a>
-
 <a href="https://www.pubgmobile.com">
-  <img alt="5160590257" src="https://img.shields.io/badge/PUBG%20Mobile%20ID-123456789-FFB000?style=flat&logo=pubg&logoColor=black" />
+  <img alt="5160590257" src="https://img.shields.io/badge/PUBG%20Mobile%20ID-5160590257-FFB000?style=flat&logo=pubg&logoColor=black" />
 </a>
 
 ![](https://github.com/Hellal1997/DevOps_Tools/blob/main/header_.png?raw=true)
@@ -42,12 +42,8 @@ ________________________________________________________________________________
 <img align="right" src="https://github.com/Hellal1997/DevOps_Tools/blob/main/Devops-mario(1).gif?raw=true" width="40%"/>
 
 
+-----
 
-
-
-
-  
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -306,13 +302,16 @@ ________________________________________________________________________________
 </p>
 
 
+-----
 
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+   
 ### Visitor Count:
 ![profile count](https://komarev.com/ghpvc/?username=monicaverma12&color=red)&nbsp;
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+-----
+
+
 ### 🔧 Technologies , ### Languages and Tools
 
 ![C#](https://img.icons8.com/color/25/000000/c-sharp-logo.png)![Python](https://img.icons8.com/color/30/000000/python.png)![WordPress](https://img.icons8.com/color/25/wordpress.png)![NPM](https://img.icons8.com/color/25/npm.png)![Github](https://img.icons8.com/material-outlined/25/github.png)![Git](https://img.icons8.com/color/25/git.png)![VSCode](https://img.icons8.com/color/25/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
@@ -353,14 +352,24 @@ ________________________________________________________________________________
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=monicaverma12&theme=highcontrast)]
 
  </div>
- ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+ -----
+
  
     
-💬 Ask me about DevOps 
+💬 Ask me about DevOps and it enginnering 
+<a href="mailto:mohamedsaad01095@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-📫 How to reach me: mohamedsaad01095@gmail.com
 
- ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+📫 How to reach me: 
+<a href="https://wa.me/201063299388">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+</a>
+
+
+ -----
+
 
 
 
@@ -379,7 +388,11 @@ ________________________________________________________________________________
  
  Outside of :
  
- [GitHub](https://github.com/Hellal1997), You can find me on [LinkedIn](https://www.linkedin.com/in/mohamed-hellal-1b1008204/)**. Currently I'm **looking for contributions** for following projects:
+<a href="https://github.com/Hellal1997">
+  <img align="left" alt="hellal's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>, You can find me on<a href="https://www.instagram.com/eng_mohamedss/">
+  <img align="left" alt="hellals's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>. Currently I'm **looking for contributions** for following projects:
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Hellal1997)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Hellal1997)  <a href="https://www.instagram.com/eng_mohamedss/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
@@ -396,6 +409,17 @@ ________________________________________________________________________________
       </tr>
   </table>
 </a>
+
+
+-----  
+
+
+<p align="center">
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+</p>
+
+  
+-----
 
 
 
