@@ -319,9 +319,7 @@ ________________________________________________________________________________
 <a href="https://github.com/vatsalcode/Sorting-Algo-visulizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vatsalcode&repo=Sorting-Algo-visulizer&theme=light" />
 </a>
-<a href="https://github.com/vatsalcode/Codeshow-100days_of_code">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vatsalcode&repo=Codeshow-100days_of_code&theme=light" />
-</a>
+
 <div align="center">
 
 </div>
