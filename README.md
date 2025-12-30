@@ -28,6 +28,14 @@ ________________________________________________________________________________
 </a>
 <a href="mailto:mohamedsaad01095@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
  <br><br>
+<a href="https://wa.me/201063299388">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://www.pubgmobile.com">
+  <img alt="5160590257" src="https://img.shields.io/badge/PUBG%20Mobile%20ID-123456789-FFB000?style=flat&logo=pubg&logoColor=black" />
+</a>
+
 ![](https://github.com/Hellal1997/DevOps_Tools/blob/main/header_.png?raw=true)
 
 ## <p align="center"><h4 align="center"><samp> Devops engineer with expertise in automating deployments and optimizing infrastructure. Proficient in Configuration Management and creating robust CI/CD pipelines. Skilled in cloud platforms such as AZURE, AWS. </samp></h4></p>
