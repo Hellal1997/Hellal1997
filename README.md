@@ -310,19 +310,6 @@ ________________________________________________________________________________
 
 ![C#](https://img.icons8.com/color/25/000000/c-sharp-logo.png)![Python](https://img.icons8.com/color/30/000000/python.png)![WordPress](https://img.icons8.com/color/25/wordpress.png)![NPM](https://img.icons8.com/color/25/npm.png)![Github](https://img.icons8.com/material-outlined/25/github.png)![Git](https://img.icons8.com/color/25/git.png)![VSCode](https://img.icons8.com/color/25/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
 
-<a href="https://github.com/vatsalcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalcode&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/vatsalcode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalcode&show_icons=true&theme=light&line_height=27" alt="Vatsal's github stats"/>
-</a>
-<a href="https://github.com/vatsalcode/Sorting-Algo-visulizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vatsalcode&repo=Sorting-Algo-visulizer&theme=light" />
-</a>
-
-<div align="center">
-
-</div>
 
 <p>
  
