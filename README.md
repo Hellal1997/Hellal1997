@@ -363,16 +363,14 @@
 
  
     
-💬 Ask me about DevOps and it enginnering 
-<a href="mailto:mohamedsaad01095@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+💬 Ask me about DevOps and it enginnering : <a href="mailto:mohamedsaad01095@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
-📫 How to reach me: 
-<a href="https://wa.me/201063299388">
+📫 How to reach me:  <a href="https://wa.me/201063299388">
   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
 </a>
 
-
+ 
  -----
 
 
@@ -415,11 +413,7 @@
 
 
 
-
-
-
-
------  
+  
 
 
 <p align="center">
