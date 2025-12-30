@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 **Glad to see you here!** :star_struck:
 <br>
-<a href="[https://www.linkedin.com/in/mohamed-helal-%F0%9F%87%B5%F0%9F%87%B8%E2%98%81%EF%B8%8F%E2%99%BE%EF%B8%8F-1b1008204/](https://www.linkedin.com/in/mohamed-helal-%E2%98%81%EF%B8%8F%E2%99%BE%EF%B8%8F-1b1008204/)">
+<a href="https://www.linkedin.com/in/mohamed-helal-%E2%98%81%EF%B8%8F%E2%99%BE%EF%B8%8F-1b1008204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTXoi9jjoThKh4Ry50YRaAQ%3D%3D">
   <img align="left" alt="hellal's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Hellal1997">
